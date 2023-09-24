@@ -4,7 +4,7 @@
 
 We extend a formal welcome to the Print on Demand (POD) Ecommerce GitHub organization, a bastion of pioneering developers and visionary entrepreneurs dedicated to reshaping the landscape of ecommerce through seamless integration with Print on Demand Services.
 
-![POD Ecommerce Banner](/profile/banner-1.jpg)
+![POD Ecommerce Banner](/profile/media/banner-1.jpg)
 
 At POD Ecommerce, our overarching objective is to equip enterprises and individuals with the tools needed to transform imaginative concepts into tangible, marketable merchandise. Whether you identify as an artist, a brand owner, or a purveyor of online stores, our web-based solutions stand as a conduit to simplifying the entire POD journey, from concept inception to product delivery.
 
@@ -20,7 +20,7 @@ At POD Ecommerce, our overarching objective is to equip enterprises and individu
 
 ### **Embrace the POD Ecommerce Revolution**
 
-![POD Ecommerce Revolution](/profile/banner-revolution.jpg)
+![POD Ecommerce Revolution](/profile/media/banner-revolution.jpg)
 
 Collectively, we are endeavoring to redefine the future of ecommerce. Whether you are an adept developer seeking to contribute to cutting-edge initiatives or an eager newcomer aspiring to broaden your horizons, POD Ecommerce is your haven.
 
